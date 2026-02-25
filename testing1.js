@@ -1,1 +1,1 @@
-var saveFiles = ["ASbackup", 3,"DebugRanger", 6];
+var saveFiles = [{name:"ASbackup", score:3},{name:"DebugRanger", score:6}];
