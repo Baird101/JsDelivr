@@ -1,2 +1,2 @@
-var loadedCodes = true;
+var thingyWorked = false;
 var saveFiles = [{name:"ASbackup", score:3},{name:"DebugRanger", score:6}];
