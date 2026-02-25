@@ -1,1 +1,1 @@
-var saveFiles = [["ASbackup", 3],["DebugRanger", 6]];
+var saveFiles = ["ASbackup", 3,"DebugRanger", 6];
